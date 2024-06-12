@@ -32,7 +32,7 @@ azure-core==1.29.7
     #   azure-storage-blob
     #   azure-storage-file-datalake
     #   msrest
-azure-identity==1.15.0
+azure-identity==1.16.1
     # via -r requirements.in
 azure-keyvault-secrets==4.7.0
     # via -r requirements.in
@@ -54,7 +54,7 @@ cffi==1.16.0
     # via cryptography
 charset-normalizer==3.3.2
     # via requests
-cryptography==42.0.1
+cryptography==42.0.8
     # via
     #   -r requirements.in
     #   azure-identity
@@ -76,7 +76,7 @@ httpcore==1.0.2
     # via httpx
 httpx==0.26.0
     # via openai
-idna==3.6
+idna==3.7
     # via
     #   anyio
     #   httpx
@@ -146,7 +146,7 @@ pytz==2023.4
     # via pandas
 regex==2023.12.25
     # via tiktoken
-requests==2.31.0
+requests==2.32.2
     # via
     #   azure-core
     #   msal
@@ -172,7 +172,7 @@ tenacity==8.2.3
     # via -r requirements.in
 tiktoken==0.5.2
     # via -r requirements.in
-tqdm==4.66.1
+tqdm==4.66.3
     # via openai
 types-pillow==10.2.0.20240125
     # via -r requirements.in
