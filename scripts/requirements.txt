@@ -44,7 +44,7 @@ azure-storage-blob==12.19.0
     #   azure-storage-file-datalake
 azure-storage-file-datalake==12.14.0
     # via -r requirements.in
-certifi==2023.11.17
+certifi==2024.7.4
     # via
     #   httpcore
     #   httpx
