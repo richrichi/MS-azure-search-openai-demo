@@ -136,7 +136,7 @@ pymupdf==1.23.20
     # via -r requirements.in
 pymupdfb==1.23.9
     # via pymupdf
-pypdf==4.0.1
+pypdf==6.0.0
     # via -r requirements.in
 python-dateutil==2.8.2
     # via pandas
