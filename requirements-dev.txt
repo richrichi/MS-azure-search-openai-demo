@@ -13,3 +13,4 @@ pre-commit
 locust
 pip-tools
 mypy
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
