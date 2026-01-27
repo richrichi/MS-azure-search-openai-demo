@@ -13,3 +13,4 @@ pre-commit
 locust
 pip-tools
 mypy
+wheel>=0.46.2 # not directly required, pinned by Snyk to avoid a vulnerability
